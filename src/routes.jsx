@@ -4,7 +4,7 @@ import Products from "./pages/Products";
 import Layout from "./layout/Layout";
 import ShoppingCart from "./pages/ShoppingCart";
 import ErrorPage from "./layout/ErrorPage";
-import { Redirect } from "react-router";
+
 
 const routes = createBrowserRouter(
   [
